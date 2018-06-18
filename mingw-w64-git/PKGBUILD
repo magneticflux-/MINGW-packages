@@ -8,8 +8,8 @@ pkgname=("${MINGW_PACKAGE_PREFIX}-${_realname}"
 	 "${MINGW_PACKAGE_PREFIX}-${_realname}-doc-man"
 	 "${MINGW_PACKAGE_PREFIX}-${_realname}-test-artifacts"
 	 "${MINGW_PACKAGE_PREFIX}-${_realname}-pdb")
-tag=2.15.1.windows.2
-pkgver=2.15.1.2.5d5baf9182
+tag=2.14.4.windows.1
+pkgver=2.14.4.1.46546482a9
 pkgrel=1
 pkgdesc="The fast distributed version control system (mingw-w64)"
 arch=('any')
